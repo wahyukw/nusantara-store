@@ -39,7 +39,7 @@ The dataset was designed to reflect realistic Indonesian e-commerce patterns inc
 
 ## Dashboard Preview
 
-![Dashboard Preview](#)
+![Dashboard Preview](page1-preview1.png) ![Dashboard Preview](page1-preview2.png)
 
 **Page 1 — Revenue & Operations**
 - 4 KPI scorecards: Gross Revenue, Net Revenue, Gross Profit, AOV
@@ -47,6 +47,8 @@ The dataset was designed to reflect realistic Indonesian e-commerce patterns inc
 - Channel performance table
 - Campaign revenue ranking
 - Payment method breakdown
+
+![Dashboard Preview](page2-preview1.png) ![Dashboard Preview](page2-preview2.png)
 
 **Page 2 — Product & Customer**
 - Indonesia geo map — revenue by province and city
