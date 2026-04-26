@@ -39,7 +39,7 @@ The dataset was designed to reflect realistic Indonesian e-commerce patterns inc
 
 ## Dashboard Preview
 
-![Dashboard Preview](#) ← replace with screenshot
+![Dashboard Preview](#)
 
 **Page 1 — Revenue & Operations**
 - 4 KPI scorecards: Gross Revenue, Net Revenue, Gross Profit, AOV
@@ -176,6 +176,6 @@ SELECT ...
 Specializing in e-commerce and sales performance dashboards for Indonesian businesses.
 
 **Tools:** SQL · Tableau · Looker Studio · Power BI · Excel · BigQuery  
-**Portfolio:** [wahyukwan.com](#) ← replace with your site  
+**Portfolio:** [wahyukwan.com](https://wahyukwan.com)
 **LinkedIn:** [linkedin.com/in/wahyukwan](https://linkedin.com/in/wahyukwan)  
 **Email:** wahyukwan@gmail.com
