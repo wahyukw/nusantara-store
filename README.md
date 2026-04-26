@@ -39,7 +39,12 @@ The dataset was designed to reflect realistic Indonesian e-commerce patterns inc
 
 ## Dashboard Preview
 
-![Dashboard Preview](page1-preview1.PNG) ![Dashboard Preview](page1-preview2.PNG)
+<a href="https://datastudio.google.com/reporting/99c0eb71-0022-4c74-9aeb-090cac4ed16b">
+  <img src="page1-preview1.PNG" width="49%" alt="Dashboard Preview Page 1 Preview 1">
+</a>
+<a href="https://datastudio.google.com/reporting/99c0eb71-0022-4c74-9aeb-090cac4ed16b">
+  <img src="page1-preview2.PNG" width="49%" alt="Dashboard Preview Page 1 Preview 2">
+</a>
 
 **Page 1 — Revenue & Operations**
 - 4 KPI scorecards: Gross Revenue, Net Revenue, Gross Profit, AOV
@@ -48,7 +53,12 @@ The dataset was designed to reflect realistic Indonesian e-commerce patterns inc
 - Campaign revenue ranking
 - Payment method breakdown
 
-![Dashboard Preview](page2-preview1.PNG) ![Dashboard Preview](page2-preview2.PNG)
+<a href="https://datastudio.google.com/reporting/99c0eb71-0022-4c74-9aeb-090cac4ed16b">
+  <img src="page2-preview1.PNG" width="49%" alt="Dashboard Preview Page 2 Preview 1">
+</a>
+<a href="https://datastudio.google.com/reporting/99c0eb71-0022-4c74-9aeb-090cac4ed16b">
+  <img src="page2-preview2.PNG" width="49%" alt="Dashboard Preview Page 2 Preview 2">
+</a>
 
 **Page 2 — Product & Customer**
 - Indonesia geo map — revenue by province and city
