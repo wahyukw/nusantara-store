@@ -51,7 +51,7 @@ The dataset was designed to reflect realistic Indonesian e-commerce patterns inc
 - Monthly revenue trend with average reference line
 - Channel performance table
 - Campaign revenue ranking
-- Payment method breakdown
+
 
 <a href="https://datastudio.google.com/reporting/99c0eb71-0022-4c74-9aeb-090cac4ed16b">
   <img src="page2-preview1.PNG" width="49%" alt="Dashboard Preview Page 2 Preview 1">
@@ -65,6 +65,7 @@ The dataset was designed to reflect realistic Indonesian e-commerce patterns inc
 - Revenue by product category (treemap)
 - Repeat vs new customer retention rate
 - Return rate and refund summary
+- Payment method breakdown
 
 ---
 
