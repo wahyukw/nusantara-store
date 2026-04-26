@@ -189,6 +189,6 @@ SELECT ...
 Specializing in e-commerce and sales performance dashboards for Indonesian businesses.
 
 **Tools:** SQL · Tableau · Looker Studio · Power BI · Excel · BigQuery  
-**Portfolio:** [wahyukwan.com](https://wahyukwan.com)
+**Portfolio:** [wahyukwan.com](https://wahyukwan.com) <br>
 **LinkedIn:** [linkedin.com/in/wahyukwan](https://linkedin.com/in/wahyukwan)  
 **Email:** wahyukwan@gmail.com
